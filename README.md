@@ -25,7 +25,7 @@ Currently a B.Tech student at IIIT Sri City. I'm a very curious person who loves
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
 <p style="font-family: Georgia, serif; font-size: 18px; color: #2c3e50;">
-Feel free to drop me an email at <a href="mailto:your.email@example.com" style="color: #2980b9;">your.email@example.com</a> or reach out on social media.
+Feel free to drop me an email at <a href="mailto:your.email@example.com" style="color: #2980b9;">akhilgv2607@gmail.com</a> or reach out on social media.
 </p>
 
 <p style="font-family: Georgia, serif; text-align: center; color: #34495e;">Thanks for visiting!</p>
