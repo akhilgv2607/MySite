@@ -1,7 +1,8 @@
 <h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Venkata Sai Akhil </h1>
 
 
-![Header Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fsearch%3Fq%3Dvagabond&psig=AOvVaw37stVIGDrsxZeKY2g0FlNd&ust=1728222086431000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjP1aKv94gDFQAAAAAdAAAAABAE)
+![Header Image](![image](https://github.com/user-attachments/assets/b1253734-787f-4c33-b85b-734b94a7ad8c)
+)
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
