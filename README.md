@@ -1,4 +1,4 @@
-<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Venkata Sai Akhil </h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">Venkata Sai Akhil </h1>
 
 
 ![Header Image](https://github.com/user-attachments/assets/b1253734-787f-4c33-b85b-734b94a7ad8c)
