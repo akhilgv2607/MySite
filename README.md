@@ -1,11 +1,11 @@
-<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Abhijit Patil</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Venkata Sai Akhil </h1>
 
 
-![Header Image](https://github.com/user-attachments/assets/657233d4-4ea4-4300-a095-30b273524462)
+![Header Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fsearch%3Fq%3Dvagabond&psig=AOvVaw37stVIGDrsxZeKY2g0FlNd&ust=1728222086431000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjP1aKv94gDFQAAAAAdAAAAABAE)
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and a good movie night. Outside of coding, I enjoy exploring new hobbies and staying curious.
+Currently a B.Tech student at IIIT Sri City. I'm a very curious person who loves to experience all the good things which helps me to learn new things . I love exploring more about myself , right now i am just a newbie in this tech field.
 
 </p>
 
