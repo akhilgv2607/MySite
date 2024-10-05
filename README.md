@@ -16,14 +16,14 @@ Currently a B.Tech student at IIIT Sri City. I'm a very curious person who loves
   <li><strong>GitHub</strong>: <a href="https://github.com/akhilgv2607" style="color: #2980b9;">@akhilgv2607</a></li>
 </ul>
 
-<h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
+<h2 style="font-family: Georgia, serif; color: #34495e;"> Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 18px; color: #2c3e50;">
   <li>I'm a night owl </li>
   <li>I like watching anime and reading manga </li>
 
 </ul>
 
-<h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
+<h2 style="font-family: Georgia, serif; color: #34495e;">Contact Me </h2>
 <p style="font-family: Georgia, serif; font-size: 18px; color: #2c3e50;">
 Feel free to drop me an email at <a href="mailto:your.email@example.com" style="color: #2980b9;">akhilgv26@gmail.com</a> or reach out on social media.
 </p>
